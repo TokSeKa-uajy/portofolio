@@ -23,3 +23,7 @@ As part of my independent study, I built a beginner-friendly machine learning pr
 This project involves building a sentiment analysis model using self-scraped data (≥3,000 samples) from platforms like PlayStore and social media. It includes feature extraction, data labeling, and machine learning classification, with a testing accuracy benchmark of at least 85%.
 #### Image Classification Project - [GitHub Repo](https://github.com/TokSeKa-uajy/Proyek-Klasifikasi-Gambar.git)  
 This project focuses on classifying rice grain types using a custom CNN model built with TensorFlow and Keras. It involves training on over 1,000 images from a Kaggle dataset, with dataset splits, accuracy tracking, and exporting models in SavedModel, TF-Lite, and TensorFlow.js formats.
+
+## Get in Touch
+- Email: sekacoding@gmail.com
+- LinkedIn: www.linkedin.com/in/tok-se-ka
